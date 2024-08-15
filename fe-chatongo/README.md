@@ -51,4 +51,4 @@ VITE_BACKEND_URL=http://localhost:8000
 npm run dev
 ```
 
-Aplikasi akan berjalan di `http://0.0.0.0:3000`.
+Aplikasi akan berjalan di `http://localhost:5173`.

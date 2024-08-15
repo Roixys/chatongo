@@ -33,8 +33,8 @@ Chatongo adalah aplikasi sistem obrolan berbasis web yang dirancang untuk member
 
 ## Links
 
-- Backend: https://github.com/Roixys/chatongo/be-chatongo
-- Frontend: https://github.com/Roixys/chatongo/fe-chatongo
+- Backend: https://github.com/Roixys/chatongo/tree/main/be-chatongo
+- Frontend: https://github.com/Roixys/chatongo/tree/main/fe-chatongo
 
 ## Teknologi yang Digunakan
 

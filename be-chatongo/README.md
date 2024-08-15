@@ -23,7 +23,7 @@ Aplikasi ini memerlukan variabel env berikut untuk disetel dalam berkas `.env`:
 
 ## Endpoint API
 
-Link API Docs: ![Postman](https://documenter.getpostman.com/view/15717582/2sA3s6EUu5)
+Link API Docs: [Postman](https://documenter.getpostman.com/view/15717582/2sA3s6EUu5)
 API Docs Postman berisi list API endpoint beserta contoh request dan juga response.
 
 ## Instalasi
