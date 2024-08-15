@@ -19,12 +19,14 @@ Aplikasi Flask ini berfungsi sebagai API backend untuk aplikasi obrolan bernama 
 Aplikasi ini memerlukan variabel env berikut untuk disetel dalam berkas `.env`:
 
 **API_KEY**: Kunci API Google Generative AI Anda.
+
 **DATABASE_URL**: String koneksi untuk database PostgreSQL Anda.
 
 ## Endpoint API
 
 Link API Docs: [Postman](https://documenter.getpostman.com/view/15717582/2sA3s6EUu5)
-API Docs Postman berisi list API endpoint beserta contoh request dan juga response.
+
+API Docs Postman berisi list API endpoint beserta contoh request dan response.
 
 ## Instalasi
 
